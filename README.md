@@ -2,4 +2,4 @@
 
 ## Upload some image
 
-Some image i collect it 
+Don't do that.
